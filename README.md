@@ -30,7 +30,7 @@ bot.status({
 ```
 
 # Reminder
-
+---
 To install the package: `npm install dbd.js`
 To start it: `node .`
 
