@@ -28,3 +28,9 @@ bot.status({
   time: 12
 })
 ```
+
+# Reminder
+
+To install the package: `npm install dbd.js`
+To start it: `node .`
+
