@@ -1,7 +1,7 @@
 # DB-script
 
 
-**code:** :
+**code:** :desktop: 
 
 ```js
 bot.command({
