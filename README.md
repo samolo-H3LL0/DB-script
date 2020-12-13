@@ -1,7 +1,7 @@
 # DB-script
 ---
 
-# set up
+## set up
 
 we need:
 
@@ -29,7 +29,7 @@ we need:
     }
   }
 ```
-**server.js:**
+**server.js:** :file_folder:
 
 ```js
 const dbd = require("dbd.js")
