@@ -53,7 +53,7 @@ code: `Pong! \`$ping\``
 
 ---
 
-# Stuff
+## Stuff
 
 **code:** :computer: 
 
@@ -83,7 +83,7 @@ bot.status({
 })
 ```
 
-# Reminder
+### Reminder
 ---
 * To install the package: `npm install dbd.js`
 * To start it: `node .`
