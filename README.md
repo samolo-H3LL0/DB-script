@@ -36,7 +36,7 @@ const dbd = require("dbd.js")
  
 const bot = new dbd.Bot({
 token: "TOKEN", 
-prefix: "!" 
+prefix: "PREFIX" 
 })
  
 bot.onMessage()
@@ -56,8 +56,8 @@ code: `Pong! \`$ping\``
 
 ```js
 bot.command({
-name: "ping", 
-code: `Pong!` 
+name: "NAME", 
+code: `CODE` 
 })
 ```
 
@@ -65,8 +65,8 @@ code: `Pong!`
 
 ```js
 bot.variables({
-  Name: "Name",
-  Name2: "Value"
+  Name: "NAME",
+  Name2: "VALUE"
 })
 ```
 
@@ -74,7 +74,7 @@ bot.variables({
 
 ```js
 bot.status({
-  text: "Your Text",
+  text: "TEXT",
   type: "PLAYING",
   time: 12
 })
