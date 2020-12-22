@@ -88,3 +88,4 @@ bot.status({
 * To install the package: `npm install dbd.js`
 * To start it: `node .`
 
+Now, you have your bot!
