@@ -68,7 +68,7 @@ code: `CODE`
 
 ```js
 bot.variables({
-  Name: "NAME",
+  Name: "VALUE",
   Name2: "VALUE"
 })
 ```
