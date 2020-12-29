@@ -25,12 +25,12 @@ we need:
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "dbd.js": "^1.0.1"
+      "dbd.js": "^1.1.0"
     }
   }
 ```
 
-* **REMIND: IN `"dbd.js": "^1.0.1"` ARE THE LASTEST VERISON IN MY TIME. IF ARE A NEW VERSION IN #CHANGELOG *(DBD.js Support Server)* PUT THE LASTEST VERSION.** 
+* **REMIND: IN `"dbd.js": "^1.1.0"` ARE THE LASTEST VERISON IN MY TIME. IF ARE A NEW VERSION IN #CHANGELOG *(DBD.js Support Server)* PUT THE LASTEST VERSION.** 
 
 **server.js:** :file_folder:
 
